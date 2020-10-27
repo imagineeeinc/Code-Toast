@@ -1,0 +1,9 @@
+body {
+    margin: 0px;
+    font-family:  'Space Mono, Arial', monospace;
+    font: monospace;
+    background-color: aqua;
+}
+#editor {
+    background-color: #272822;
+}
