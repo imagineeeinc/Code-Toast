@@ -4,7 +4,7 @@ Code Toast is a embeddable code editor for the browser
 # Install
 add this to your html
 ```
-https://cdn.jsdelivr.net/gh/imagineeeinc/code-toast/codetoast.js
+<script src="https://cdn.jsdelivr.net/gh/imagineeeinc/code-toast/codetoast.js"></script>
 ```
 Then add this to your script
 ```
