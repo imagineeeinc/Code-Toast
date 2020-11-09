@@ -30,3 +30,16 @@ toast_gettext(your element that has been turned in to a text box)
 //example
 var text = toast_gettext(your element that has been turned in to a text box)
 ```
+
+## example
+```html
+<html>
+  <div id="editor"></div>
+  <script src="https://cdn.jsdelivr.net/gh/imagineeeinc/code-toast/codetoast.js"></script>
+  <script>
+    var editor = toast(document.getElementById("editor"))
+    toast_settext(editor, "hello world")
+    console.log(toast_gettext(editor))
+  </script>
+</html>
+```
